@@ -9,7 +9,6 @@ import android.widget.Button;
 import android.widget.EditText;
 
 import gladiator.tech.usermodel.R;
-import gladiator.tech.usermodel.model.DisplayDataActivity;
 
 public class MainActivity extends AppCompatActivity {
     private EditText mUsername;

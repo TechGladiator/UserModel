@@ -1,4 +1,4 @@
-package gladiator.tech.usermodel.model;
+package gladiator.tech.usermodel.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
